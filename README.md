@@ -11,13 +11,13 @@
 
 Building digital experiences, developing software, and exploring new technologies.
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/CybisKauan">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/SEU_USUARIO">
+<a href="https://www.linkedin.com/in/CybisKauan">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
+<a href="https://github.com/CybisKauan?tab=repositories">
   <img src="https://img.shields.io/badge/Projects-Explore-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
@@ -89,21 +89,21 @@ A web development brand and portfolio concept focused on modern websites and dig
 
 **Technologies:** HTML · CSS · JavaScript · Tailwind CSS
 
-[Explore my repositories](https://github.com/SEU_USUARIO?tab=repositories)
+[Explore my repositories](https://github.com/CybisKauan?tab=repositories)
 
 ### 🤖 Jarvis
 A personal software assistant project exploring automation, AI integrations, and desktop interactions.
 
 **Technologies:** Python · APIs · Software Development
 
-[Explore my repositories](https://github.com/SEU_USUARIO?tab=repositories)
+[Explore my repositories](https://github.com/CybisKauan?tab=repositories)
 
 ### ⚛️ Quantum Computing & Scientific Projects
 Exploring quantum computing concepts, scientific visualizations, and computational experiments.
 
 **Technologies:** Python · Scientific Computing · Data Visualization
 
-[Explore my repositories](https://github.com/SEU_USUARIO?tab=repositories)
+[Explore my repositories](https://github.com/CybisKauan?tab=repositories)
 
 > Replace these project descriptions with links to the actual repositories and live demos as they become available.
 
@@ -111,16 +111,16 @@ Exploring quantum computing concepts, scientific visualizations, and computation
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
+<a href="https://github.com/CybisKauan">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CybisKauan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
 </a>
-<a href="https://github.com/SEU_USUARIO">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+<a href="https://github.com/CybisKauan">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CybisKauan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CybisKauan&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -128,7 +128,7 @@ Exploring quantum computing concepts, scientific visualizations, and computation
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/CybisKauan/CybisKauan/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -147,13 +147,13 @@ I'm open to meeting developers, connecting with technology professionals, collab
 If you have a project, an opportunity, or an interesting idea, let's talk!
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/CybisKauan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO">
+  <a href="https://www.linkedin.com/in/CybisKauan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:cybiskauan">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
