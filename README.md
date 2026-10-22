@@ -15,9 +15,9 @@
 
 ---
 
-## `> whoami`
+## `> Sobre mim`
 
-Desenvolvedor focado em **Laravel, bots para Discord e front-end**. Gosto de desenvolver aplicações, automatizar tarefas e explorar novas tecnologias.
+Um desenvolvedor focado em **Laravel, bots para Discord e front-end**. Gosto de desenvolver aplicações, automatizar tarefas e explorar novas tecnologias.
 
 - ⚡ Back-end com Laravel e PHP
 - 🤖 Desenvolvimento de bots para Discord
@@ -25,7 +25,7 @@ Desenvolvedor focado em **Laravel, bots para Discord e front-end**. Gosto de des
 - 🐧 Ambiente Linux
 - 🪟 Ambiente Windows
 
-## `> technologies`
+## `> Tecnologias`
 
 <!--START_SECTION:languages-->
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -36,12 +36,12 @@ Desenvolvedor focado em **Laravel, bots para Discord e front-end**. Gosto de des
 
 *As linguagens dos repositórios serão atualizadas automaticamente pelo workflow abaixo.*
 
-## `> featured_projects`
+## `> Projetos meus`
 
 - 🚧 **Projeto 01:** em breve.
 - 🚧 **Projeto 02:** em breve.
 
-## `> github_activity`
+## `> atividade no github`
 
 <div align="center">
 
@@ -51,13 +51,7 @@ Desenvolvedor focado em **Laravel, bots para Discord e front-end**. Gosto de des
 
 </div>
 
-## `> contribution_snake`
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/CybisKauan/CybisKauan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Cobrinha das contribuições do GitHub" />
-
-</div>
 
 ## `> connect`
 
@@ -69,13 +63,11 @@ Desenvolvedor focado em **Laravel, bots para Discord e front-end**. Gosto de des
 
 
 <a href="SEU_LINK_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="SEU_LINK_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://instagram.com/kauan_2.04"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 
 <!-- Para adicionar sua foto, envie-a ao repositório e descomente:
 <img src="./assets/profile.jpg" width="160" alt="Foto de CybisKauan" />
 -->
-
-`SYSTEM ONLINE // KEEP BUILDING`
 
 </div>
