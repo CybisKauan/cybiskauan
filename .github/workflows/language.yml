@@ -1,0 +1,101 @@
+
+name: Update languages
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "31 2 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update language badges
+        env:
+          GH_USER: CybisKauan
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - <<'PY'
+          import json, os, urllib.request
+
+          user = os.environ["GH_USER"]
+          token = os.environ["GH_TOKEN"]
+          headers = {
+              "Accept": "application/vnd.github+json",
+              "Authorization": f"Bearer {token}"
+          }
+
+          repos = []
+          for page in range(1, 11):
+              url = (
+                  f"https://api.github.com/users/{user}/repos"
+                  f"?per_page=100&page={page}&type=owner"
+              )
+              req = urllib.request.Request(url, headers=headers)
+              with urllib.request.urlopen(req) as r:
+                  batch = json.load(r)
+              if not batch:
+                  break
+              repos.extend(
+                  x for x in batch
+                  if not x["fork"] and not x["archived"]
+              )
+              if len(batch) < 100:
+                  break
+
+          totals = {}
+          for repo in repos:
+              req = urllib.request.Request(
+                  repo["languages_url"], headers=headers
+              )
+              try:
+                  with urllib.request.urlopen(req) as r:
+                      langs = json.load(r)
+                  for name, size in langs.items():
+                      totals[name] = totals.get(name, 0) + size
+              except Exception as e:
+                  print(f"Skipping {repo['name']}: {e}")
+
+          top = sorted(
+              totals.items(), key=lambda x: x[1], reverse=True
+          )[:8]
+
+          badges = []
+          for name, _ in top:
+              badges.append(
+                  f'![{name}](https://img.shields.io/badge/'
+                  f'{name.replace("-", "--")}-111827?'
+                  f'style=flat-square&logo=github&logoColor=00F5D4)'
+              )
+
+          block = "\n".join(badges) if badges else (
+              "*Nenhuma linguagem detectada nos repositórios públicos.*"
+          )
+
+          path = "README.md"
+          with open(path, encoding="utf-8") as f:
+              readme = f.read()
+
+          start = "<!--START_SECTION:languages-->"
+          end = "<!--END_SECTION:languages-->"
+
+          before, rest = readme.split(start, 1)
+          _, after = rest.split(end, 1)
+
+          with open(path, "w", encoding="utf-8") as f:
+              f.write(before + start + "\n" + block + "\n" + end + after)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update language badges"
+          git push
