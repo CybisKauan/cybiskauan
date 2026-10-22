@@ -1,167 +1,81 @@
-<!--
-  CYBIS KAUAN | GITHUB PROFILE README
-  Replace SEU_USUARIO and the contact placeholders with your real information.
--->
 
 <div align="center">
 
-# CYBIS KAUAN
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:00F5D4,50:101820,100:7B2CFF&text=CYBISKAUAN&fontColor=E8FFFB&fontSize=45&animation=fadeIn&stroke=00F5D4" width="100%" />
 
-### `Software Developer` · `Web Developer` · `Freelancer`
+### `DEVELOPER • LARAVEL • DISCORD BOTS • FRONT-END`
 
-Building digital experiences, developing software, and exploring new technologies.
-
-<a href="https://github.com/CybisKauan">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/CybisKauan">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/CybisKauan?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-</a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=6C63FF&label=PROFILE+VIEWS)
+<img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/DISCORD_BOTS-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/WINDOWS-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `> whoami`
 
-Hello! I'm **Cybis Kauan**, a developer passionate about technology, software development, and building digital solutions.
+Desenvolvedor focado em **Laravel, bots para Discord e front-end**. Gosto de desenvolver aplicações, automatizar tarefas e explorar novas tecnologias.
 
-I enjoy transforming ideas into functional applications, creating modern websites, exploring programming concepts, and continuously improving my technical skills.
+- ⚡ Back-end com Laravel e PHP
+- 🤖 Desenvolvimento de bots para Discord
+- 🌐 Desenvolvimento front-end
+- 🐧 Ambiente Linux
+- 🪟 Ambiente Windows
 
-My goal is to combine clean code, thoughtful design, and practical functionality to develop solutions that deliver real value.
+## `> technologies`
 
-- 💻 Focused on web development and software engineering.
-- 🌐 Developing websites, landing pages, and digital experiences.
-- 🐍 Working with Python and exploring software automation.
-- 🎨 Interested in responsive interfaces and modern web design.
-- 🧠 Exploring artificial intelligence, scientific computing, and emerging technologies.
-- 🤝 Open to freelance projects, collaborations, and professional opportunities.
-- 📈 Always learning, building, testing, and improving.
+<!--START_SECTION:languages-->
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<!--END_SECTION:languages-->
 
-> My philosophy: build with purpose, learn continuously, and turn ideas into reality.
+*As linguagens dos repositórios serão atualizadas automaticamente pelo workflow abaixo.*
 
-## 🛠️ Tech Stack
+## `> featured_projects`
 
-### Languages
+- 🚧 **Projeto 01:** em breve.
+- 🚧 **Projeto 02:** em breve.
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+## `> github_activity`
 
-### Frameworks & Styling
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=CybisKauan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B2CFF&text_color=E6EDF3" width="49%" alt="Estatísticas do GitHub" />
 
-### Tools & Platforms
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CybisKauan&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E6EDF3" width="42%" alt="Linguagens mais utilizadas" />
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-</p>
+</div>
 
-## 🚀 What I Do
+## `> contribution_snake`
 
-| Service | Description |
-|---|---|
-| 🌐 Website Development | Modern, responsive websites for businesses and professionals. |
-| 🎯 Landing Pages | Focused pages for products, services, and campaigns. |
-| 🎨 Interface Development | Clean layouts and user-friendly digital experiences. |
-| ⚙️ Website Maintenance | Content, image, layout, and functionality updates. |
-| 🐍 Python Development | Programming projects, scripts, and automation experiments. |
+<div align="center">
 
-## 💼 Featured Projects
+<img src="https://raw.githubusercontent.com/CybisKauan/CybisKauan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Cobrinha das contribuições do GitHub" />
 
-Here are some of the projects I develop and explore.
+</div>
 
-### 🌐 NexoraTech
-A web development brand and portfolio concept focused on modern websites and digital solutions.
-
-**Technologies:** HTML · CSS · JavaScript · Tailwind CSS
-
-[Explore my repositories](https://github.com/CybisKauan?tab=repositories)
-
-### 🤖 Jarvis
-A personal software assistant project exploring automation, AI integrations, and desktop interactions.
-
-**Technologies:** Python · APIs · Software Development
-
-[Explore my repositories](https://github.com/CybisKauan?tab=repositories)
-
-### ⚛️ Quantum Computing & Scientific Projects
-Exploring quantum computing concepts, scientific visualizations, and computational experiments.
-
-**Technologies:** Python · Scientific Computing · Data Visualization
-
-[Explore my repositories](https://github.com/CybisKauan?tab=repositories)
-
-> Replace these project descriptions with links to the actual repositories and live demos as they become available.
-
-## 📊 GitHub Analytics
+## `> connect`
 
 <div align="center">
 
 <a href="https://github.com/CybisKauan">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CybisKauan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
-</a>
-<a href="https://github.com/CybisKauan">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CybisKauan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+<img src="https://img.shields.io/badge/GitHub-CybisKauan-101820?style=for-the-badge&logo=github&logoColor=00F5D4" />
 </a>
 
-<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CybisKauan&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<a href="SEU_LINK_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="SEU_LINK_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-</div>
 
-## 🐍 Contribution Snake
+<!-- Para adicionar sua foto, envie-a ao repositório e descomente:
+<img src="./assets/profile.jpg" width="160" alt="Foto de CybisKauan" />
+-->
 
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/CybisKauan/CybisKauan/output/github-contribution-grid-snake.svg)
-
-</div>
-
-## 🎯 Current Focus
-
-- Building and improving real-world web projects.
-- Developing a professional portfolio for freelance opportunities.
-- Improving software architecture and code quality.
-- Exploring Python, AI, and scientific computing.
-- Contributing to personal projects and open-source software.
-
-## 🤝 Let's Connect
-
-I'm open to meeting developers, connecting with technology professionals, collaborating on projects, and working with clients who need modern digital solutions.
-
-If you have a project, an opportunity, or an interesting idea, let's talk!
-
-<p align="center">
-  <a href="https://github.com/CybisKauan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/CybisKauan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:cybiskauan">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<div align="center">
-
-### `Code. Create. Learn. Repeat.`
-
-*Thanks for visiting my profile!*
+`SYSTEM ONLINE // KEEP BUILDING`
 
 </div>
